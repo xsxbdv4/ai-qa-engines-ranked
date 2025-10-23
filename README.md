@@ -6,6 +6,8 @@
 
 新一代对话式AI搜索引擎，提供带引用来源的实时答案。
 
+<img width="1234" height="670" alt="image" src="https://github.com/user-attachments/assets/029dff70-8a7a-4481-838f-c25aa8c9449c" />
+
 Perplexity 最大的特点就是直接、不绕弯子。你问它问题，它会整合最新的网络信息，生成一段逻辑清晰的回答，并且在旁边附上所有引用来源的链接。这对于需要核查信息真实性的用户来说简直是福音。它的Pro版还提供Copilot模式，可以对你的问题进行深度追问和分析，帮你把一个话题挖得更深。你甚至可以上传文档（PDF、TXT等），让它帮你总结和问答，非常适合学生和研究人员。
 
 ## **[ChatGPT](https://chat.openai.com/)**
